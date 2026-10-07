@@ -10,3 +10,8 @@ catalog-service/bin/
 *.test
 *.out
 coverage.*
+
+storefront/vendor/
+storefront/var/
+storefront/public/assets/
+storefront/.phpunit.cache/
