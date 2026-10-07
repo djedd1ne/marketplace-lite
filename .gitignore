@@ -1,0 +1,12 @@
+.env
+.env.local
+*.local
+
+.idea/
+.vscode/
+.DS_Store
+
+catalog-service/bin/
+*.test
+*.out
+coverage.*
